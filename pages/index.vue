@@ -20,16 +20,16 @@
             </div>
           </div>
           <div class="flex">
-            <img src="../assets/icons/Instagram.png" alt="Instagram" />
-            <img src="../assets/icons/Twitter.png" alt="Twitter" />
-            <img src="../assets/icons/YouTube.png" alt="Youtube" />
-            <img src="../assets/icons/GitHub.png" alt="Github" />
+            <img src="../assets/icons/Instagram.png" class=" cursor-pointer" alt="Instagram" />
+            <img src="../assets/icons/Twitter.png" class=" cursor-pointer" alt="Twitter" />
+            <img src="../assets/icons/YouTube.png" class=" cursor-pointer" alt="Youtube" />
+            <img src="../assets/icons/GitHub.png" class=" cursor-pointer" alt="Github" />
           </div>
         </div>
         <div>
           <img
             style="width: 600px"
-            src="../assets/icons/me.png"
+            src="../assets/icons/me_no_bg.png"
             alt="Bibhu Padhy"
           />
           <img class="ml-auto" src="../assets/icons/Highlight.png" alt="" />
